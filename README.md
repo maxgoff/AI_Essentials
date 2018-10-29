@@ -28,4 +28,4 @@ Then fire up the notebook:
 ```
 
 
-EIther a browser will open with Jupyter running, or you will see, from the command line, the URL to use to access Jupyter.  
+Either a browser will open with Jupyter running, or you will see, from the command line, the URL to use to access Jupyter.  
