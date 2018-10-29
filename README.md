@@ -27,5 +27,4 @@ Then fire up the notebook:
      jupyter notebook --ip=127.0.0.1
 ```
 
-
 Either a browser will open with Jupyter running, or you will see, from the command line, the URL to use to access Jupyter.  
