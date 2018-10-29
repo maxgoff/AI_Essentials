@@ -8,12 +8,7 @@ You need to install Anacondaon either OSX or Linux.  Running Ubutu on the Window
 
 ## Install / Configure bash on Windows 10
 
-Follow this tutorial and pick Ubuntu as the version of Linux you want to host on Windows, unless you know what you're doing and prefer other distrubutions:
-
-```
-<a href="https://www.windowscentral.com/how-install-bash-shell-command-line-windows-10" target="_blank">How to Install Bash on Windows 10</a>
-```
-
+Follow this tutorial and pick Ubuntu as the version of Linux you want to host on Windows, unless you know what you're doing and prefer other distrubutions: <a href="https://www.windowscentral.com/how-install-bash-shell-command-line-windows-10" target="_blank">How to Install Bash on Windows 10</a> 
 ## Bash on OSX
 
 If you're on a Mac, the standard Terminal utility will do. You might want to download iTerm for a better experience, but it's not required: <a href="http://sourabhbajaj.com/mac-setup/iTerm/README.html" target="_blank">iTerm tutorial</a>
