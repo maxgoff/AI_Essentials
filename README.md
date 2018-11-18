@@ -20,7 +20,7 @@ Next, you need to install <a href="https://www.anaconda.com/download/" target="_
 REMEMBER: If you are on Windows 10 hosting Linux, you are effectively running on Linux.  So run the install script from a bash window.
 
 ## Configure Environment
-Once installed from a bash terminal create the environment you will need:
+Once installed from a bash terminal, in the root directory of the repository, create the environment you will need:
 
 ```
     conda create --name py3 --file config/spec-file.txt 
