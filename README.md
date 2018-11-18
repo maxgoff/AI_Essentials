@@ -4,7 +4,7 @@ GitHub repository can be found here: <a href="https://github.com/maxgoff/AI_Esse
 
 This repository contains examples of Jupyter notebooks for machine learning, AI basics, and Deep Learning.   The Jupyter notebooks, datasets and configuration files are included.
 
-You need to install Anacondaon either OSX or Linux.  Running Ubutu on the Windows 10 Linux subsystem works just as well. I've done this on Windows 10 running bash (Ubuntu Linux).
+You need to install Anaconda on either OSX or Linux.  Running Ubutu on the Windows 10 Linux subsystem works just as well. I've done this on Windows 10 running bash (Ubuntu Linux).
 
 ## Install / Configure bash on Windows 10
 
