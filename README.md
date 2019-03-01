@@ -4,7 +4,7 @@ GitHub repository can be found here: <a href="https://github.com/maxgoff/AI_Esse
 
 This repository contains examples of Jupyter notebooks for machine learning, AI basics, and Deep Learning.   The Jupyter notebooks, datasets and configuration files are included.
 
-You need to install Anacondaon either OSX or Linux.  Running Ubutu on the Windows 10 Linux subsystem works just as well. I've done this on Windows 10 running bash (Ubuntu Linux).
+You need to install Anaconda on either OSX or Linux.  Running Ubutu on the Windows 10 Linux subsystem works just as well. I've done this on Windows 10 running bash (Ubuntu Linux).
 
 ## Install / Configure bash on Windows 10
 
@@ -41,9 +41,8 @@ Then fire up the notebook:
 ```
      jupyter notebook --ip=127.0.0.1
 ```
+Either a browser will open with Jupyter running, or you will see, from the command line, the URL to use to access Jupyter. Congratulations! Now you can successfully run the notebook!
 
-Either a browser will open with Jupyter running, or you will see, from the command line, the URL to use to access Jupyter.  Congratulations!  Now you can successfully run the notebook!
+From the Jupyter notebook page in your browser open the notebooks direcotry and you will see the examples. Click on them to open them.
 
-The notebooks here are inspired by code written by <a href="https://github.com/srmward/ml-python-iris-tutorial" target="_blank">Jason Brownlee</a>, <a href="https://github.com/kartik-joshi/Perceptron-in-Python" target="_blank">Kartik Joshi</a>, and <a href="https://www.kaggle.com/richbrosius/iris-classification-using-tensorflow" target="_blank">Rich Brosius</a>.
-
-This simple set of tutorials include configuration settings and techniques to ensure that you can rapidly reproduce the expected results.  Consider these tutorals in the category of YAHW -- yet another "hello world," but with training wheels.
+If you have never used Jupyter before, see this tutorial:  <a href="https://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb">Notebook Tutorial.</a>
