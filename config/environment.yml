@@ -128,5 +128,5 @@ dependencies:
     - tensorflow-tensorboard==1.5.1
     - tqdm==4.19.6
     - werkzeug==0.14.1
-prefix: /Users/maxgoff/anaconda3/envs/py3
+prefix: ~/anaconda3/envs/py3
 
