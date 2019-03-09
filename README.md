@@ -30,7 +30,7 @@ Once installed from a bash terminal, change directory to the root of the reposit
 If all goes well you should now have a properly configured python environment called py3.  Then activate the environment:
     
 ```
-     source activate py3
+     conda activate py3
 ```
 
 ## Running Jupyter
